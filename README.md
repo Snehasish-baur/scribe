@@ -61,25 +61,7 @@ A fast, lightweight, multi-tab text and code editor for the browser, inspired by
 > *On macOS, use `Cmd` in place of `Ctrl`.*
 
 
-## ☁️ Deployment
 
-### Deploy to Vercel
-
-Scribe includes a [`vercel.json`](vercel.json) configuration for instant deployment:
-
-#### Method 1: Via GitHub / Vercel Dashboard
-1. Push this repository to GitHub.
-2. Go to [vercel.com/new](https://vercel.com/new) and import your repository.
-3. Framework Preset: **Other**.
-4. Click **Deploy**.
-
-#### Method 2: Via Vercel CLI
-```bash
-npm install -g vercel
-vercel
-```
-
----
 
 ## 🔒 Privacy & Security
 
