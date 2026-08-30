@@ -60,28 +60,6 @@ A fast, lightweight, multi-tab text and code editor for the browser, inspired by
 
 > *On macOS, use `Cmd` in place of `Ctrl`.*
 
----
-
-## 🚀 Getting Started
-
-### Run Locally
-
-Because Scribe is a zero-dependency static web application, no build steps (`npm run build`) are required.
-
-1. **Direct Browser Open**:
-   Simply double-click [`index.html`](index.html) or drag it into any web browser.
-
-2. **Local HTTP Server** (Recommended for File System Access API):
-   ```bash
-   # Using Python
-   python -m http.server 3000
-
-   # Using Node.js (npx)
-   npx serve .
-   ```
-   Open `http://localhost:3000` in your browser.
-
----
 
 ## ☁️ Deployment
 
